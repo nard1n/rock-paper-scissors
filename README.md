@@ -1,6 +1,6 @@
-# Rock Paper Scissors - Simple Game built with JS and React
+# Rock Paper Scissors
 
-Rock Paper Scissors is a hand game usually played between two people. Each player simultaneously forms one of three shapes with their hand. In this case, you click your selection and the app automatically generates its selection randomly. Please enjoy and feel free to reference it as you build yours!
+Simple Game built with JS and React. Rock Paper Scissors is a hand game usually played between two people. Each player simultaneously forms one of three shapes with their hand. In this case, you click your selection and the app automatically generates its selection randomly. Please enjoy and feel free to reference it as you build yours!
 
 Screenshot of application:
 ![Screenshot](./rockpaperscissors.png)
